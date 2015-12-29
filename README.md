@@ -40,9 +40,8 @@ Contains important tools related to my work
 - [iOS Development Tools - Really cool tools to check](https://iosdev.tools/)
 
 #### Mockups Creation
--[NinjaMocks - Create your Wireframes](http://ninjamock.com/)
-
--[Invision - Link your wireframes/Mockups at single link](http://www.invisionapp.com/)
+- [NinjaMocks - Create your Wireframes](http://ninjamock.com/)
+- [Invision - Link your wireframes/Mockups at single link](http://www.invisionapp.com/)
  
 
 
