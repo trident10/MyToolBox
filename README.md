@@ -33,6 +33,7 @@ Contains important tools related to my work
 
 #### Management
 - [Time Tracking app](https://trackingtime.co/)
+- [LastPass - Password Manager](https://lastpass.com/)
 
 #### Development
 - [Handy Tools Online](http://gimenete.github.io/devtoolbelt/)
