@@ -37,7 +37,9 @@
 
 #### Note Keeping Or Todo List
 - Stickies app on Mac
-- [Google Keep](http://keep.google.com) - _Great tool for **Instant Notes** and **To Do List** for your **Phone, System and Website**_
+- [Google Keep](http://keep.google.com) 
+
+>_Great tool for **Instant Notes** and **To Do List** for your **Phone, System and Website**_
 
 
 #### Development
