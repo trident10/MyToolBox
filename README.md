@@ -35,6 +35,11 @@ Contains important tools related to my work
 - [Time Tracking app](https://trackingtime.co/)
 - [LastPass - Password Manager](https://lastpass.com/)
 
+#### Note Keeping Or Todo List
+- Stickies app on Mac
+- [Google Keep](http://keep.google.com) - _Great tool for **Instant Notes** and **To Do List** for your **Phone, System and Website**_
+
+
 #### Development
 - [Handy Tools Online](http://gimenete.github.io/devtoolbelt/)
 - [iOS Development Tools - Really cool tools to check](https://iosdev.tools/)
@@ -43,6 +48,10 @@ Contains important tools related to my work
 - [NinjaMocks - Create your Wireframes](http://ninjamock.com/)
 - [Invision - Link your wireframes/Mockups at single link](http://www.invisionapp.com/)
  
+#### Web Debugging
+- [Advance Rest Client - Rest webservices debugger](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
+- [Charles - Web Debugging Proxy Application](https://www.charlesproxy.com/)
+
 
 
 
