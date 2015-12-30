@@ -68,4 +68,35 @@
 
 
 
+### Android RELATED
+
+#### Android Coding Style
+- [Android Coding Style - Java](https://github.com/zapbuild/Code-Guidelines/tree/master/Android)
+
+#### Blogs
+- [Android Weekly](http://androidweekly.net/)
+- [Styling Android](https://blog.stylingandroid.com/)
+- [Medium](https://medium.com/)
+
+#### Library Finders
+- [Android arsenal](https://android-arsenal.com/)
+- [Appance](http://www.appance.com/)
+
+#### Design Inspirations
+- [Material Up](https://www.materialup.com/)
+- [Android Niceties](http://androidniceties.tumblr.com/)
+- [User On Board](https://www.useronboard.com/)
+
+#### Design Tools
+- [Material design icons](https://materialdesignicons.com/)
+- [Material pallete for generating pallete](https://www.materialpalette.com)
+- [Android asset studio for resizing and getting icons](https://romannurik.github.io/AndroidAssetStudio/)
+
+
+#### Development Tools
+- [To get gradle dependencies](http://gradleplease.appspot.com/)
+- [Mock Gcm server](http://1-dot-sigma-freedom-752.appspot.com/gcmpusher)
+
+
+
 
