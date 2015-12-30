@@ -68,4 +68,21 @@
 
 
 
+## Android RELATED
+
+####Blogs
+- [Android Weekly](http://androidweekly.net/)
+- [Styling Android](https://blog.stylingandroid.com/)
+- [Medium](https://medium.com/)
+
+#### Android Coding Style
+- [Android Coding Style - Java](https://github.com/zapbuild/Code-Guidelines/tree/master/Android)
+
+
+#### Development Tools
+- [To get gradle dependencies](http://gradleplease.appspot.com/)
+- [Mock Gcm server](http://1-dot-sigma-freedom-752.appspot.com/gcmpusher)
+
+
+
 
