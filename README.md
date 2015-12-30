@@ -27,7 +27,11 @@
 
 ## IOS RELATED
 
-#### Important Projects/Libraries
+#### iOS Coding Style
+- [iOS Coding Style - Objective C](https://github.com/abhimanyujindal10/MyToolBox/blob/master/iOS%20Coding%20Style%20-%20Objective%20C.md)
+
+
+#### Library Finders
 - [iOS 9 Sample Codes](https://github.com/shu223/iOS-9-Sampler)
 - [Cocoa Controls - latest iOS/OSX open source codes updates](https://www.cocoacontrols.com)
 - [Maniac Dev - latest iOS/OSX open source codes updates](https://maniacdev.com/)
@@ -35,10 +39,6 @@
 #### Dependency Managers
 - [CocoaPods - Centralized Dependency Manager](https://cocoapods.org/)
 - [Carthage - Decentralized Dependency Manager](https://github.com/Carthage/Carthage)
-
-
-#### iOS Coding Style
-- [iOS Coding Style - Objective C](https://github.com/abhimanyujindal10/MyToolBox/blob/master/iOS%20Coding%20Style%20-%20Objective%20C.md)
 
 #### Swift Learning Stuff
 - [Swift Learning Stuff](https://github.com/abhimanyujindal10/MyToolBox/blob/master/Swift%20Learning%20Stuff.md)
