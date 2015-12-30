@@ -7,7 +7,7 @@
 - [Real Time Web Technologies](http://www.leggetter.co.uk/real-time-web-technologies-guide/)
 - [App Launch Guide](https://github.com/adamwulf/app-launch-guide?utm_source=ios%20dev%20tools&utm_medium=website&utm_campaign=ios%20dev%20tools&at=11lvzs&ct=ios%20dev%20tools)
 
-## Daily Sites/Blogs to visit  - (Can't Miss a single day)
+### Daily Sites/Blogs to visit  - (Can't Miss a single day)
 
 #### Technology News
 - [Tech2 - Tech News of India and World](http://tech.firstpost.com/)
