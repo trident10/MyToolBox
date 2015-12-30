@@ -31,6 +31,7 @@
 - [iOS 9 Sample Codes](https://github.com/shu223/iOS-9-Sampler)
 - [Cocoa Controls - latest iOS/OSX open source codes updates](https://www.cocoacontrols.com)
 - [Maniac Dev - latest iOS/OSX open source codes updates](https://maniacdev.com/)
+- [Swift tool box - Latest iOS/OSX libraries for swift only](http://www.swifttoolbox.io/)
 
 #### Dependency Managers
 - [CocoaPods - Centralized Dependency Manager](https://cocoapods.org/)
