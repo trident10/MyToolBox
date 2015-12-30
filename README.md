@@ -7,6 +7,16 @@
 - [Real Time Web Technologies](http://www.leggetter.co.uk/real-time-web-technologies-guide/)
 - [App Launch Guide](https://github.com/adamwulf/app-launch-guide?utm_source=ios%20dev%20tools&utm_medium=website&utm_campaign=ios%20dev%20tools&at=11lvzs&ct=ios%20dev%20tools)
 
+## Daily Sites/Blogs to visit  - (Can't Miss a single day)
+
+#### Technology News
+- [Tech2 - Tech News of India and World](http://tech.firstpost.com/)
+- [iGyaan - Gadgets News from India and World](http://www.igyaan.in/)
+ 
+#### Automobile News
+- [Indian Autos Blog - Indian Automobiles News](http://indianautosblog.com/)
+- [Motoroids - Indian Automobiles News](http://www.motoroids.com/)
+
 #### Huge List of Everything
 - [Awsomeness](https://github.com/t3chnoboy/awesome-awesome-awesome)
 - [Technical, Non-Technical Curated List](https://github.com/jnv/lists)
