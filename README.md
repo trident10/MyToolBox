@@ -97,6 +97,9 @@
 - [Advance Rest Client - Rest webservices debugger](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
 - [Charles - Web Debugging Proxy Application](https://www.charlesproxy.com/)
 
+#### Document/Images Related
+- [PDF Processing](http://smallpdf.com/)
+- [Image Compression](https://tinypng.com/)
 
 
 
