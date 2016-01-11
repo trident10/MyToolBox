@@ -20,7 +20,7 @@
 
 #### iOS/Cocoa
 - [RayWenderlich - Center of iOS Learning updates](http://www.raywenderlich.com/)
-
+- [Promo TV](http://www.pomo.tv/)
 
 #### Huge List of Everything
 - [Awsomeness](https://github.com/t3chnoboy/awesome-awesome-awesome)
