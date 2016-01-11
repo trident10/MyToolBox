@@ -7,6 +7,7 @@
 - [Real Time Web Technologies](http://www.leggetter.co.uk/real-time-web-technologies-guide/)
 - [App Launch Guide](https://github.com/adamwulf/app-launch-guide?utm_source=ios%20dev%20tools&utm_medium=website&utm_campaign=ios%20dev%20tools&at=11lvzs&ct=ios%20dev%20tools)
 - [Essential JS Tools](https://github.com/ericelliott/essential-javascript-links?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
+- [How to be a programmer](https://github.com/braydie/HowToBeAProgrammer)
 
 ### Daily Sites/Blogs to visit  - (Can't Miss a single day)
 
