@@ -38,6 +38,7 @@
 - [Cocoa Controls - latest iOS/OSX open source codes updates](https://www.cocoacontrols.com)
 - [Maniac Dev - latest iOS/OSX open source codes updates](https://maniacdev.com/)
 - [Swift tool box - Latest iOS/OSX libraries for swift only](http://www.swifttoolbox.io/)
+- [iOS Development Tools - Really cool blog for iOS tools to check](https://iosdev.tools/)
 
 #### Dependency Managers
 - [CocoaPods - Centralized Dependency Manager](https://cocoapods.org/)
@@ -89,7 +90,7 @@
 
 #### Development
 - [Handy Tools Online](http://gimenete.github.io/devtoolbelt/)
-- [iOS Development Tools - Really cool tools to check](https://iosdev.tools/)
+
 
 #### Mockups Creation
 - [NinjaMocks - Create your Wireframes](http://ninjamock.com/)
