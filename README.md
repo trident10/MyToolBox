@@ -9,6 +9,12 @@
 - [Essential JS Tools](https://github.com/ericelliott/essential-javascript-links?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)
 - [How to be a programmer](https://github.com/braydie/HowToBeAProgrammer)
 
+#### Important Chrome Extensions
+- [Manage Tabs on Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en)
+- [Google Keep](https://chrome.google.com/webstore/detail/google-keep-notes-and-lis/hmjkmjkepdijhoojdojkdfohbdgmmhki?hl=en)
+- [Password Manager - LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=en)
+- [Pocket - Efficient way to organise Bookmarks or Favorites](https://chrome.google.com/webstore/detail/pocket/mjcnijlhddpbdemagnpefmlkjdagkogk?hl=en)
+
 ### Daily Sites/Blogs to visit  - (Can't Miss a single day)
 
 #### Technology News
